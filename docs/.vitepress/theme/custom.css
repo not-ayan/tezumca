@@ -1,0 +1,36 @@
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
+  
+  --vp-nav-logo-height: 24px;
+}
+
+@media (max-width: 640px) {
+  .vp-doc h1 {
+    font-size: 28px;
+  }
+  
+  .VPHero .name {
+    font-size: 32px !important;
+    line-height: 40px !important;
+  }
+
+  .VPHero .text {
+    font-size: 24px !important;
+    line-height: 32px !important;
+  }
+}
+
+/* Fix for long header text in the navbar */
+.VPNavBarTitle .title {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 200px;
+}
+
+@media (min-width: 960px) {
+  .VPNavBarTitle .title {
+    max-width: none;
+  }
+}
