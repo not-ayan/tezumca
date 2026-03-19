@@ -27,7 +27,7 @@ When filling out the form on the portal, use the exact details provided below to
 | :--- | :--- |
 | **University Name** | Tezpur University |
 | **University Director / VC** | Prof. Amarendra Kumar Das |
-| **University Phone No.** | 03712 267 100 |
+| **University Phone No.** | 3712 267 100 |
 | **Details of the Course** | UG/PG |
 | **Name of the Course** | MCA |
 | **Current Year of Study** | 1 |
