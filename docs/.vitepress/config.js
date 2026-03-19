@@ -14,7 +14,8 @@ export default {
         {
           text: 'Home',
           items: [
-            { text: 'Overview', link: '/' }
+            { text: 'Overview', link: '/' },
+            { text: 'Anti-Ragging', link: '/anti-ragging' }
           ]
         },
         {
