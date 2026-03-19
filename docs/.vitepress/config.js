@@ -19,7 +19,13 @@ export default {
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['meta', { name: 'msapplication-TileColor', content: '#ffffff' }],
     ['meta', { name: 'msapplication-TileImage', content: '/ms-icon-144x144.png' }],
-    ['meta', { name: 'theme-color', content: '#ffffff' }]
+    ['meta', { name: 'theme-color', content: '#ffffff' }],
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:title', content: 'TU MCA Docs' }],
+    ['meta', { property: 'og:description', content: 'A comprehensive guide for MCA admissions at Tezpur University' }],
+    ['meta', { property: 'og:image', content: '/preview.png' }],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:image', content: '/preview.png' }]
   ],
   themeConfig: {
     siteTitle: 'TU MCA Docs',
