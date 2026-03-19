@@ -10,3 +10,5 @@ Detailed information about the MCA intake capacity at Tezpur University.
 
 * Total seats: 60 (approximate, please check official notification for current year)
 * Category-wise distribution applies as per Government of India norms.
+
+👉 **You can check the detailed previous year seat capacity and category-wise breakdowns here:** **[TUEE Cut Off & Seat Matrices](/tuee/cut-off)**

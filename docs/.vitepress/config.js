@@ -23,6 +23,7 @@ export default {
           collapsed: false,
           items: [
             { text: 'Registration', link: '/tuee/registration' },
+            { text: 'Required Documents', link: '/tuee/documents' },
             { text: 'Syllabus', link: '/tuee/syllabus' },
             { text: 'Seat Capacity', link: '/tuee/seat-capacity' },
             { text: 'Suggested Videos', link: '/tuee/suggested-videos' },

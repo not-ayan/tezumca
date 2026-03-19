@@ -2,6 +2,21 @@
 
 Previous year cut-off trends for TUEE MCA admissions.
 
+## TUEE Cut-off for MCA 2025
+| Category | Seats Reserved | Cut-off Marks |
+|----------| :---: | :---: |
+| Open | 17 | - |
+| OBC | 11 | - |
+| SC | 6 | - |
+| ST | 3 | - |
+| EWS | 5 | - |
+| PWD | 1 | - |
+| **TOTAL** | **43** | |
+
+**Additional Seats (TUEE):**
+* 1 Employee Quota
+* 1 Military Quota
+
 ## TUEE Cut-off for MCA 2024
 | Category | Seats Reserved | Cut-off Marks |
 |----------| :---: | :---: |

@@ -2,14 +2,16 @@
 
 Historical CUET PG score cut-offs for MCA admission at Tezpur University.
 
-## CUET PG 2025 Cut-off
-| Category | Cut-off Score |
-|----------|---------------|
-| General  | 110           |
-| EWS      | 134           |
-| OBC-NCL  | 110           |
-| SC       | 102           |
-| ST       | 93            |
+## CUET PG 2025 Seat Reservation & Cut-off
+| Category | Seats Reserved | Cut-off Score |
+|----------| :---: | :---: |
+| Open / General | 5 | 110 |
+| OBC-NCL | 4 | 110 |
+| SC | 2 | 102 |
+| ST | 1 | 93 |
+| EWS | 1 | 134 |
+| PWD | 1 | - |
+| **TOTAL** | **14** | |
 
 ## CUET PG 2024 Cut-off
 According to the official seat matrix, 11 seats were reserved for CUET PG candidates in 2024. 
