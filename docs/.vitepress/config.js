@@ -12,6 +12,12 @@ export default {
     sidebar: {
       '/': [
         {
+          text: 'Home',
+          items: [
+            { text: 'Overview', link: '/' }
+          ]
+        },
+        {
           text: 'TUEE',
           collapsed: false,
           items: [
@@ -36,7 +42,7 @@ export default {
       ]
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com' }
+      { icon: 'github', link: 'https://github.com/not-ayan/tezumca/' }
     ]
   }
 }

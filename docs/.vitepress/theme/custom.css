@@ -1,8 +1,31 @@
 :root {
-  --vp-home-hero-name-color: var(--vp-c-brand-1);
-  --vp-home-hero-name-background: none;
-  
   --vp-nav-logo-height: 24px;
+
+  /* More Creamy Light Mode */
+  --vp-c-bg: #fffbf0;
+  --vp-c-bg-alt: #fcf6e5;
+  --vp-c-bg-soft: #f9f1d8;
+  --vp-c-text-1: #4a3e2e;
+  --vp-c-text-2: #6b5a45;
+  --vp-c-brand-1: #c49a6c;
+  --vp-c-brand-2: #a67f54;
+  --vp-c-border: #eee3c8;
+  --vp-c-divider: #f2e9d4;
+  --vp-c-gutter: #fcf6e5;
+}
+
+.dark {
+  /* Dark Mode: Near-Black with Creamy Accents */
+  --vp-c-bg: #0a0908;
+  --vp-c-bg-alt: #12100e;
+  --vp-c-bg-soft: #1a1714;
+  --vp-c-text-1: #f2e6cf;
+  --vp-c-text-2: #d9c8aa;
+  --vp-c-brand-1: #e0b480;
+  --vp-c-brand-2: #c49a6c;
+  --vp-c-border: #2a241c;
+  --vp-c-divider: #332d23;
+  --vp-c-gutter: #0a0908;
 }
 
 @media (max-width: 640px) {
@@ -23,14 +46,94 @@
 
 /* Fix for long header text in the navbar */
 .VPNavBarTitle .title {
+  display: flex !important;
+  align-items: center !important;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
   max-width: 200px;
 }
 
+.VPNavBarTitle .title:hover {
+  opacity: 1;
+}
+
 @media (min-width: 960px) {
   .VPNavBarTitle .title {
     max-width: none;
   }
+}
+
+/* Home Page Hero Button Customization */
+:root {
+  --vp-button-brand-border: #c49a6c;
+  --vp-button-brand-text: #ffffff;
+  --vp-button-brand-bg: #c49a6c;
+  --vp-button-brand-hover-border: #a67f54;
+  --vp-button-brand-hover-text: #ffffff;
+  --vp-button-brand-hover-bg: #a67f54;
+  --vp-button-brand-active-border: #a67f54;
+  --vp-button-brand-active-text: #ffffff;
+  --vp-button-brand-active-bg: #a67f54;
+
+  --vp-button-alt-border: #eee3c8;
+  --vp-button-alt-text: #4a3e2e;
+  --vp-button-alt-bg: #fffbf0;
+  --vp-button-alt-hover-border: #e2d4b1;
+  --vp-button-alt-hover-text: #4a3e2e;
+  --vp-button-alt-hover-bg: #fcf6e5;
+}
+
+.dark {
+  --vp-button-brand-border: #e0b480;
+  --vp-button-brand-text: #0a0908;
+  --vp-button-brand-bg: #e0b480;
+  --vp-button-brand-hover-border: #f2e6cf;
+  --vp-button-brand-hover-text: #0a0908;
+  --vp-button-brand-hover-bg: #f2e6cf;
+
+  --vp-button-alt-border: #2a241c;
+  --vp-button-alt-text: #f2e6cf;
+  --vp-button-alt-bg: #12100e;
+  --vp-button-alt-hover-border: #332d23;
+  --vp-button-alt-hover-text: #f2e6cf;
+  --vp-button-alt-hover-bg: #1a1714;
+}
+
+/* Ensure the title is vertically centered and looks aligned */
+.VPNavBarTitle {
+  display: flex !important;
+  align-items: center !important;
+}
+
+/* Scrollbar layout shift fix */
+html {
+  overflow-y: scroll;
+}
+
+/* Improve table styling to match creamy theme */
+table {
+  background-color: var(--vp-c-bg-soft) !important;
+  border-color: var(--vp-c-border) !important;
+  width: 100% !important;
+  display: table !important;
+}
+
+table thead {
+  background-color: var(--vp-c-bg-alt) !important;
+}
+
+table th, table td {
+  border-color: var(--vp-c-border) !important;
+  padding: 12px 16px !important;
+}
+
+table tr:hover {
+  background-color: var(--vp-c-bg-soft) !important;
+}
+
+/* Improve info box styling */
+.VPDocInfo .info-box {
+  background-color: var(--vp-c-bg-soft) !important;
+  border-left: 3px solid var(--vp-c-brand-1) !important;
 }
