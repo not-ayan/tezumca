@@ -24,7 +24,7 @@ You are required to upload your undergraduate marksheets based on your current s
 ## 5. Caste Certificate
 If applying under reserved categories (OBC-NCL, SC, ST, EWS), you must upload your caste/category certificate.
 * The **Central Government format** is highly preferred for OBC-NCL & SC/ST, although exact explicit guidelines are not given on the portal. It is always safest to prepare the central format.
-* The **State Government format** is required for EWS, although exact explicit guidelines are not given on the portal yet.
+* For EWS both the **State Government format** & **Central Government Format** are accepted.
 
 ## 6. Anti-Ragging Affidavit
 An Anti-Ragging document is actively required for the application process.
