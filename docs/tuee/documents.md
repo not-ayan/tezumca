@@ -10,12 +10,13 @@ You need to upload clear, scanned copies of your recent passport-size photograph
 
 If applicable, your Income Certificate must be officially obtained from your local **Circle Office**.  
 
+- The income certificate should be for the **financial year 2026–2027**.  
 - Income certificate is **mandatory** for **SC, ST, OBC-NCL, and General-EWS** candidates.  
 - If you do not have the certificate at the time of registration, you may submit an **undertaking** temporarily.  
 
 ### Important Notes  
 - **General category** candidates do **not** need to submit an income certificate at the time of admission (document verification); the undertaking will be sufficient.  
-- **SC, ST, OBC-NCL, and EWS candidates must submit the valid income certificate during admission/document verification.**
+- **SC, ST, OBC-NCL, and EWS candidates are not strictly required to submit the income certificate at admission**, but it is **strongly recommended** to apply for and keep it ready in case it is needed or if you plan to apply for **scholarships or fee waiver schemes later on**.  
 
 ### Fee Waiver Information  
 - There is **no fee waiver scheme at the time of admission**.  
