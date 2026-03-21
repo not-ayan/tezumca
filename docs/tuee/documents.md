@@ -17,6 +17,13 @@ If applicable, your Income Certificate must be officially obtained from your loc
 - **General category** candidates do **not** need to submit an income certificate at the time of admission (document verification); the undertaking will be sufficient.  
 - **SC, ST, OBC-NCL, and EWS candidates must submit the valid income certificate during admission/document verification.**
 
+### Fee Waiver Information  
+- There is **no fee waiver scheme at the time of admission**.  
+- However, you can apply for a **Fee Waiver Scheme later**.  
+- The scheme is available for **BPL students** under certain conditions, such as:  
+  - Your **CGPA must be within the top 60% of the class**  
+  - Other institute-specific terms and conditions may apply
+
 ## 3. Class X and XII Marksheets & Certificates
 You will need your 10th and 12th board marksheets and certificates.
 💡 **Tip:** If you need to edit these files or merge both the certificate and marksheet into a single document, you can use [TinyWow PDF Tools](https://tinywow.com/tools/pdf).
