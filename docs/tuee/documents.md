@@ -6,8 +6,16 @@ A comprehensive guide to the documents you need to prepare and upload during the
 You need to upload clear, scanned copies of your recent passport-size photograph and your official signature. 
 💡 **Tip:** If you need to easily crop, compress, or resize your images to meet the portal requirements, you can use [Tinywow Image tools](https://tinywow.com/tools/image/) for free.
 
-## 2. Income Certificate
-If applicable, your Income Certificate must be officially obtained from your local **Circle Office**.
+## 2. Income Certificate  
+
+If applicable, your Income Certificate must be officially obtained from your local **Circle Office**.  
+
+- Income certificate is **mandatory** for **SC, ST, OBC-NCL, and General-EWS** candidates.  
+- If you do not have the certificate at the time of registration, you may submit an **undertaking** temporarily.  
+
+### Important Notes  
+- **General category** candidates do **not** need to submit an income certificate at the time of admission (document verification); the undertaking will be sufficient.  
+- **SC, ST, OBC-NCL, and EWS candidates must submit the valid income certificate during admission/document verification.**
 
 ## 3. Class X and XII Marksheets & Certificates
 You will need your 10th and 12th board marksheets and certificates.
