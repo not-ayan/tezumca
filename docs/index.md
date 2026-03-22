@@ -58,6 +58,8 @@ A national-level entrance exam accepted across multiple universities for PG admi
 
 **[CUET Section](/cuet/paper-info):** Paper Info, Cut-off Scores, Ranksheets
 
+**[FAQ Section](/faq/):** Frequently Asked Questions about application form, certificates, admission fees, and fee waivers
+
 ---
 
 
