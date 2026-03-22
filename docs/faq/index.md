@@ -10,7 +10,7 @@ Do not include special characters.
 ## I do not have the latest OBC-NCL or EWS certificate. What should I do?
 Upload the latest available certificate you currently have, and apply for a new one immediately.
 
-Keep the updated certificate ready, because it may be required during document verification.
+Keep the updated certificate ready, because it will be required during document verification.
 
 <a id="admission-fees"></a>
 ## What is the fee to be paid at the time of admission?
@@ -31,7 +31,7 @@ No. Other than the slight deduction in hostel admission charges, there is no add
 
 See [admission fee details](#admission-fees).
 
-## We made a mistake while creating the anti-ragging document. Can we remake it?
+## I made a mistake while creating the anti-ragging document. Can I remake it?
 Yes. You can remake it as long as you do not upload the incorrect one on the portal and do not submit the final admission application with the wrong file.
 
 If you have already submitted, a correction window is usually opened. Keep the corrected anti-ragging document ready.
