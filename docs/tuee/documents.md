@@ -38,3 +38,14 @@ If applying under reserved categories (OBC-NCL, SC, ST, EWS), you must upload yo
 ## 6. Anti-Ragging Affidavit
 An Anti-Ragging document is actively required for the application process.
 **[View instructions to generate your Anti-Ragging Affidavit](/anti-ragging)**
+
+## 7. Gap Affidavit
+If you have graduated a year or more prior to taking admission to TU, you are required to upload a Gap Affidavit.
+
+### What to include in the Gap Affidavit?
+The affidavit should explain the reasons for the gap between your graduation and admission to the MCA program. It must be on a stamp paper and notarized/certified.
+
+### Template & Example
+**[View Gap Affidavit Example](https://drive.google.com/file/d/1cClIOOXn7PX4ak9v7sY3-aQNRf_yt2eC/view?usp=drive_link)**
+
+💡 **Tip:** Use the provided template as a reference to prepare your affidavit. Ensure it is properly notarized and certified by the appropriate authority.
