@@ -32,7 +32,8 @@ export default {
     nav: [
       { text: 'Home', link: '/' },
       { text: 'TUEE', link: '/tuee/registration' },
-      { text: 'CUET', link: '/cuet/paper-info' }
+      { text: 'CUET', link: '/cuet/paper-info' },
+      { text: 'FAQ', link: '/faq/' }
     ],
     sidebar: {
       '/': [
@@ -64,6 +65,13 @@ export default {
             { text: 'Paper Info', link: '/cuet/paper-info' },
             { text: 'Cut Off', link: '/cuet/cut-off' },
             { text: 'CUET Ranksheets', link: '/cuet/ranksheets' }
+          ]
+        },
+        {
+          text: 'FAQ',
+          collapsed: false,
+          items: [
+            { text: 'Frequently Asked Questions', link: '/faq/' }
           ]
         }
       ]

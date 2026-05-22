@@ -6,8 +6,17 @@ A comprehensive guide to the documents you need to prepare and upload during the
 You need to upload clear, scanned copies of your recent passport-size photograph and your official signature. 
 💡 **Tip:** If you need to easily crop, compress, or resize your images to meet the portal requirements, you can use [Tinywow Image tools](https://tinywow.com/tools/image/) for free.
 
-## 2. Income Certificate
-If applicable, your Income Certificate must be officially obtained from your local **Circle Office**.
+## 2. Income Certificate  
+
+If applicable, your Income Certificate must be officially obtained from your local **Circle Office**.  
+
+- The income certificate should be for the **financial year 2026–2027**.  
+- Income certificate is **mandatory** for **SC, ST, OBC-NCL, and General-EWS** candidates.  
+- If you do not have the certificate at the time of registration, you may submit an **undertaking** temporarily.  
+
+### Important Notes  
+- **General category** candidates do **not** need to submit an income certificate at the time of admission (document verification); the undertaking will be sufficient.  
+- **SC, ST, OBC-NCL, and EWS candidates are not strictly required to submit the income certificate at admission**, but it is **strongly recommended** to apply for and keep it ready in case it is needed or if you plan to apply for **scholarships or fee waiver schemes later on**.  
 
 ## 3. Class X and XII Marksheets & Certificates
 You will need your 10th and 12th board marksheets and certificates.
@@ -23,7 +32,8 @@ You are required to upload your undergraduate marksheets based on your current s
 
 ## 5. Caste Certificate
 If applying under reserved categories (OBC-NCL, SC, ST, EWS), you must upload your caste/category certificate.
-* The **Central Government format** is highly preferred, although exact explicit guidelines are not given on the portal. It is always safest to prepare the central format.
+* The **Central Government format** is highly preferred for OBC-NCL & SC/ST, although exact explicit guidelines are not given on the portal. It is always safest to prepare the central format.
+* For EWS both the **State Government format** & **Central Government Format** are accepted.
 
 ## 6. Anti-Ragging Affidavit
 An Anti-Ragging document is actively required for the application process.
