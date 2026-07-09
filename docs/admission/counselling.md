@@ -12,7 +12,7 @@ Download and bring the following forms filled and signed:
 
 - [Undertaking (A & B)](https://www.tezu.ernet.in/adm26/notice/tuee26-CMR/tuee26-Undertaking.pdf)
 - [Medical Certificate (Annexure)](https://www.tezu.ernet.in/adm26/notice/tuee26-CMR/tuee26-Medical.pdf)
-- [Anti ragging Certificate](http://localhost:5173/anti-ragging.html)
+- [Anti ragging Certificate](https://tezumca.vercel.app/anti-ragging.html)
 ### (i) Mandatory Documents
 
 1. Two copies of recent passport size photograph.
