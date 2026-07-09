@@ -21,14 +21,16 @@ Download and bring the following forms filled and signed:
 > This will act as your birth certificate.
 4. Medical certificate as per Annexure duly signed by a Registered Medical Practitioner.
 5. Pass certificates of all examinations starting from HSLC or equivalent (except pass certificate of the qualifying examination if the result is awaited).
-6. Application form of Tezpur University MCA.
-7. Payment receipt of online seat booking.
-8. Mark sheets / grade cards of all examinations starting from HSLC or equivalent (except marksheet of the qualifying examination if the result is awaited).
-9. A character certificate from the Head of the institution last attended.
+6. Payment receipt of online seat booking.
+7. Mark sheets / grade cards of all examinations starting from HSLC or equivalent (except marksheet of the qualifying examination if the result is awaited).
+> If your provisional pass certificate doesnt include your cgpa then individual grade sheets of each semester are required.
+8. A character certificate from the Head of the institution last attended.
 > The character certificate is sometimes included in the pass certificate itself.
-10. Valid SC/ST/PWD/OBC-NCL/EWS certificate issued by the competent authority (for reserved category candidates). Candidates failing to produce the category certificate will have their admission forfeited. Latest OBC-NCL/EWS certificate will only be considered.
-11. Valid CUET-PG qualified score card.
-12. **Result awaited case:** A certificate/undertaking issued by the Principal/Head of the Institution last attended, confirming that the candidate has appeared in all examinations (including theory, practical, and project) before the date of admission. Candidates required to appear in any course/subject after the date of admission will not be eligible for provisional admission. 
+9. Valid SC/ST/PWD/OBC-NCL/EWS certificate issued by the competent authority (for reserved category candidates). Candidates failing to produce the category certificate will have their admission forfeited. Latest OBC-NCL/EWS certificate will only be considered.
+10. Valid CUET-PG qualified score card.
+11. **Result awaited case:** A certificate/undertaking issued by the Principal/Head of the Institution last attended, confirming that the candidate has appeared in all examinations (including theory, practical, and project) before the date of admission. Candidates required to appear in any course/subject after the date of admission will not be eligible for provisional admission. 
+12. Aadhar card or any other government issued ID like Driving license, Passport or Voter ID.
+> Usually id proofs arent required but keep it with you just in case.
 
 ### (ii) Documents for Provisional Admission (Late Submission) 
 > These are to be submitted before 30th October 2026.
