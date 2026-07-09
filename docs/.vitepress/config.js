@@ -33,6 +33,7 @@ export default {
       { text: 'Home', link: '/' },
       { text: 'TUEE', link: '/tuee/registration' },
       { text: 'CUET', link: '/cuet/paper-info' },
+      { text: 'Admission', link: '/admission/' },
       { text: 'FAQ', link: '/faq/' }
     ],
     sidebar: {
@@ -53,6 +54,7 @@ export default {
             { text: 'Syllabus', link: '/tuee/syllabus' },
             { text: 'Seat Capacity', link: '/tuee/seat-capacity' },
             { text: 'Suggested Videos', link: '/tuee/suggested-videos' },
+            { text: 'Mock Tests', link: '/tuee/mock-tests' },
             { text: 'Cut Off', link: '/tuee/cut-off' },
             { text: 'Previous Year Papers', link: '/tuee/previous-year-papers' },
             { text: 'Previous Year Ranksheets', link: '/tuee/previous-year-ranksheets' }
@@ -65,6 +67,16 @@ export default {
             { text: 'Paper Info', link: '/cuet/paper-info' },
             { text: 'Cut Off', link: '/cuet/cut-off' },
             { text: 'CUET Ranksheets', link: '/cuet/ranksheets' }
+          ]
+        },
+        {
+          text: 'Admission',
+          collapsed: false,
+          items: [
+            { text: 'Overview', link: '/admission/' },
+            { text: 'Important Dates', link: '/admission/important-dates' },
+            { text: 'Counselling Process', link: '/admission/counselling' },
+            { text: 'Fee Structure', link: '/admission/fee-structure' }
           ]
         },
         {
