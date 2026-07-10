@@ -10,7 +10,7 @@ Key dates for the MCA admission process at Tezpur University.
 |------------------------------------------------|-----------------------|
 | Counselling — UR (General)                     | 6–9 July 2026         |
 | Counselling — OBC-NCL, SC, ST & EWS            | 10–15 July 2026       |
-| Document Verification & Hostel Admission       | 28 July 2026          |
+| Document Verification & Hostel Admission       | 27-28 July 2026          |
 | Classes Begin                                  | 29 July 2026          |
 
 ## Academic Calendar

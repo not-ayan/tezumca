@@ -6,6 +6,10 @@ Information about the MCA counselling procedure at Tezpur University.
 
 Counselling is the process where shortlisted candidates (based on TUEE/CUET rank) are called to verify their documents and confirm their seat in the MCA program.
 
+## Date of Counselling?
+
+This year around document verification is held on both 27 and 28 july so you can report on either date.
+
 ## Required Documents for Document Verification (28 July 2026)
 
 Download and bring the following forms filled and signed:
